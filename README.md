@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm V VISHNURAJU
 
-**Web, App & Game Developer | B.Tech IT @ Nandha Engineering College**
+**Web, App & Game Developer **
 
 ---
 
