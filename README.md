@@ -66,12 +66,14 @@ Here are a few highlighted projects aligned with your portfolio:
   Tech: Unity • React Native  
   Live: <a href="https://vvraju.netlify.app#projects">Projects Section</a>
 
-- 🛒 E-Commerce Mobile App  
-  React Native + Firebase app with authentication, cart, product list, and order management.  
-  Tech: React Native • Firebase  
-  Live: <a href="https://vvraju.netlify.app#projects">Projects Section</a>
+- 🛒 Wab + Mobile app -Travel & Tourism — Smart Eco & Cultural Platform  
+  Full-stack React + Flutter app for promoting eco & cultural tourism, integrating maps, gamification, community marketplace, AI-based itineraries, and blockchain verification.  
+Tech: React • Flutter • Firebase • OpenAI • Polygon • IPFS  
+Live: https://nanoex-056.vercel.app  
 
-- ✉️ TempMail – Temporary Email Service  
+
+
+- ✉️ Web- TempMail – Temporary Email Service  
   Modern glassmorphism UI, 3D animations, and real-time messages via Mail.tm API.  
   Tech: Node.js • Express.js • CSS3  
   Live: <a href="https://vvraju.netlify.app#projects">Projects Section</a>
