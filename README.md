@@ -14,11 +14,12 @@
 ---
 
 ## 💫 About Me
-- 🔭 Building web, mobile, and game experiences with modern stacks
-- 🧩 Love solving real-world problems and crafting intuitive UX
-- 🚀 Full-Stack & Cross-Platform development (Web, Android, iOS, Games)
-- 🧠 Passionate about scalable code and performance-driven apps
-- 🧰 25+ projects • 15+ tools/technologies
+- 🔭 Building web, mobile, and game experiences with modern stacks  
+- 🎮 Game Development with Unity (2D/3D), gameplay programming & level design  
+- 🧩 Love solving real-world problems and crafting intuitive UX  
+- 🚀 Full-Stack & Cross-Platform development (Web, Android, iOS, Games)  
+- 🧠 Passionate about scalable code and performance-driven apps  
+- 🧰 25+ projects • 15+ tools/technologies  
 
 
 ## 🧰 Tech Stack
@@ -34,6 +35,11 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=fff)
+![C#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=fff)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=fff)
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
@@ -60,6 +66,12 @@
 
 ## 📌 Featured Projects
 Here are a few highlighted projects aligned with your portfolio:
+
+- 🎮 Unity Game Development – Multi-Platform Game  
+  Designed and developed 2D/3D gameplay systems, animations, physics, UI/UX, and scoring/leaderboards.  
+  Tech: Unity • C# • Blender  
+  Live: <a href="https://vvraju.netlify.app#projects">Projects Section</a>
+
 
 - 🎮 Cross-Platform Game App  
   Built using Unity and React Native with game logic, animation, scoring system, and leaderboard functionality.  
