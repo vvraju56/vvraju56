@@ -93,18 +93,10 @@ Here are a few highlighted projects aligned with your portfolio:
 
 ## 🎓 Education & Certifications
 - 🎓 B.Tech in Information Technology — Nandha Engineering College (2022–2026)
-- 🏅 Certifications: UI/UX Certificate • Data Analysis Training • Unity Game Development Certificate
-
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vvraju56&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvraju56&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvraju56&theme=radical" alt="GitHub Streak" />
-</p>
+- 🏅 Certifications:
+- • UI/UX Certificate
+- • Data Analysis Training
+- • Unity Game Development Certificate
 
 
 
