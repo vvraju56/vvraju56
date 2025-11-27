@@ -67,6 +67,17 @@
 ## 📌 Featured Projects
 Here are a few highlighted projects aligned with your portfolio:
 
+
+- ✉️ Web- TempMail – Temporary Email Service  
+  Modern glassmorphism UI, 3D animations, and real-time messages via Mail.tm API.  
+  Tech: Node.js • Express.js • CSS3  
+  Live: <a href="https://vvraju.netlify.app#projects">Projects Section</a>
+
+- 🛒 Wab + Mobile app -Travel & Tourism — Smart Eco & Cultural Platform  
+  Full-stack React + Flutter app for promoting eco & cultural tourism, integrating maps, gamification, community marketplace, AI-based itineraries, and blockchain verification.  
+ Tech: React • Flutter • Firebase • OpenAI • Polygon • IPFS  
+ Live: https://nanoex-056.vercel.app  
+
 - 🎮 Unity Game Development – Multi-Platform Game  
   Designed and developed 2D/3D gameplay systems, animations, physics, UI/UX, and scoring/leaderboards.  
   Tech: Unity • C# • Blender  
@@ -78,17 +89,6 @@ Here are a few highlighted projects aligned with your portfolio:
   Tech: Unity • React Native  
   Live: <a href="https://vvraju.netlify.app#projects">Projects Section</a>
 
-- 🛒 Wab + Mobile app -Travel & Tourism — Smart Eco & Cultural Platform  
-  Full-stack React + Flutter app for promoting eco & cultural tourism, integrating maps, gamification, community marketplace, AI-based itineraries, and blockchain verification.  
-Tech: React • Flutter • Firebase • OpenAI • Polygon • IPFS  
-Live: https://nanoex-056.vercel.app  
-
-
-
-- ✉️ Web- TempMail – Temporary Email Service  
-  Modern glassmorphism UI, 3D animations, and real-time messages via Mail.tm API.  
-  Tech: Node.js • Express.js • CSS3  
-  Live: <a href="https://vvraju.netlify.app#projects">Projects Section</a>
 
 
 ## 🎓 Education & Certifications
