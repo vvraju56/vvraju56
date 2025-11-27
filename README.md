@@ -94,9 +94,9 @@ Here are a few highlighted projects aligned with your portfolio:
 ## 🎓 Education & Certifications
   🎓 B.Tech in Information Technology — Nandha Engineering College (2022–2026)
   🏅 Certifications:
-- • UI/UX Certificate
-- • Data Analysis Training
-- • Unity Game Development Certificate
+-  UI/UX Certificate
+-  Data Analysis Training
+-  Unity Game Development Certificate
 
 
 
