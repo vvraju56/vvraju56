@@ -106,15 +106,9 @@ Here are a few highlighted projects aligned with your portfolio:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvraju56&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🏆 Trophies
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=vvraju56&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-</p>
 
-## 🔥 Activity Graph
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vvraju56&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
+
+
 
 ## ✍️ Random Dev Quote
 <p>
