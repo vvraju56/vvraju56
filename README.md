@@ -1,7 +1,7 @@
 <!-- Profile README for V VISHNURAJU -->
 
 <h1 align="center">Hi, I'm <a href="https://vvraju.netlify.app" target="_blank">V VISHNURAJU</a> 👋</h1>
-<h3 align="center">Web, App & Game Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 <p align="center">A passionate developer focused on building creative digital experiences using cutting-edge technologies.</p>
 
 <p align="center">
