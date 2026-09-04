@@ -19,7 +19,7 @@
 - 🧩 Love solving real-world problems and crafting intuitive UX  
 - 🚀 Full-Stack & Cross-Platform development (Web, Android, iOS, Games)  
 - 🧠 Passionate about scalable code and performance-driven apps  
-- 🧰 25+ projects • 15+ tools/technologies  
+- 🧰 35+ projects • 15+ tools/technologies  
 
 
 ## 🧰 Tech Stack
